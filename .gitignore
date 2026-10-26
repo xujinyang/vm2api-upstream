@@ -56,7 +56,6 @@ patches/
 /.tmp/
 /.tmp-*
 /tmp/
-/AGENTS.md
 /docs/benchmarks.zip
 /worker/bin/
 /issues/

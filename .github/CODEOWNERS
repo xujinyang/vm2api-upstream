@@ -1,0 +1,18 @@
+# Routing only. Required review needs supported repository protection settings.
+# A PR author cannot supply their own GitHub approving review.
+/AGENTS.md @xujinyang
+/CLAUDE.md @xujinyang
+/REVIEW.md @xujinyang
+/docs/development-workflow.md @xujinyang
+/.github/ @xujinyang
+/src/ @xujinyang
+/worker/ @xujinyang
+/api-kernel/ @xujinyang
+/deploy/ @xujinyang
+/docker/ @xujinyang
+/scripts/ @xujinyang
+/bin/ @xujinyang
+/share/ @xujinyang
+/Dockerfile @xujinyang
+/docker-compose*.yml @xujinyang
+/web/src/ @xujinyang
